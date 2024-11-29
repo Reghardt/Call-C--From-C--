@@ -1,0 +1,2 @@
+/home/reghardt/Documents/Development/Call C# From C++/ConsoleApp1/bin/Release/net8.0/linux-x64/publish/ConsoleApp1.so
+/home/reghardt/Documents/Development/Call C# From C++/ConsoleApp1/bin/Release/net8.0/linux-x64/publish/ConsoleApp1.pdb

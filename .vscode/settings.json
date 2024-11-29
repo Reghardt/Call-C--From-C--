@@ -1,0 +1,7 @@
+{
+  "cmake.sourceDirectory": "/home/reghardt/Documents/Development/Call C# From C++/source",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}

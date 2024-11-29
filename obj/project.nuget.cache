@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwAW5GSbCBSX5VW/Bq65+peiOSHufWw1LoOJbOuD6hHp54BRkKX+LBY2+o2QqEIYbWkw3KeDe5hfDYcqw/W09w==",
+  "success": true,
+  "projectFilePath": "/home/reghardt/Documents/Development/Call C# From C++/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/reghardt/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.8/microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "/home/reghardt/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "/home/reghardt/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.8/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "/home/reghardt/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.8/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

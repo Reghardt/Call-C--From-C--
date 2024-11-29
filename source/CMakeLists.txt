@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20) 
+project(MyApp) 
+set(CMAKE_CXX_STANDARD 17)
+add_executable(myExe main.cpp)
+add_library(ConsoleApp1 SHARED IMPORTED)

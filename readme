@@ -1,0 +1,4 @@
+Build C# with: 
+    dotnet publish -c Release
+
+Build and run C++ using CMake
